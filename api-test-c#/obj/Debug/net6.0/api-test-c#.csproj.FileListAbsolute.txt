@@ -1,0 +1,15 @@
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\api-test-c#.exe
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\api-test-c#.deps.json
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\api-test-c#.runtimeconfig.json
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\api-test-c#.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\api-test-c#.pdb
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.csproj.AssemblyReference.cache
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.AssemblyInfoInputs.cache
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.AssemblyInfo.cs
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.csproj.CoreCompileInputs.cache
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.dll
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\refint\api-test-c#.dll
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.pdb
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.genruntimeconfig.cache
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\ref\api-test-c#.dll
