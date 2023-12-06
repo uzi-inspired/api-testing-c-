@@ -13,3 +13,12 @@ C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\refint\api-test-c#.dll
 C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.pdb
 C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.genruntimeconfig.cache
 C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\ref\api-test-c#.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\nunit.engine.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\nunit.framework.dll
+C:\Projects\api-testing-c#\api-test-c#\bin\Debug\net6.0\nunit.framework.legacy.dll
+C:\Projects\api-testing-c#\api-test-c#\obj\Debug\net6.0\api-test-c#.csproj.CopyComplete

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Kj/t6tBq1jNQZjxMU7OfMMlam9Z123REnouzRWxLSlv3UXsDD8lxNKRsQF+P5qeWAmANA0hWKH01HXfETAhAyg==",
+  "dgSpecHash": "dtDupkpxz6aT0gEusSNqfXf8tHNO6VbinrHU4noizK1U+ZGvO/N0so1cVhSci7hLskOQx5B8n9sHRxVYoSCaGQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\api-testing-c#\\api-test-c#\\api-test-c#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\UKhan\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\UKhan\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
